@@ -1,9 +1,9 @@
 /* Complex  Class
-     * Trevon Alvarado
-     * CSC-112  Intermediate Java
-     * tsalvarado0001@student.stcc.edu
-     * 02/12/18
-     */
+ * Trevon Alvarado
+ * CSC-112  Intermediate Java
+ * tsalvarado0001@student.stcc.edu
+ * 02/12/18
+ */
 
 public class Complex {
 
